@@ -66,6 +66,7 @@ def count_down(count: int):
     if count > 0:
         if click_coord is None and not is_setup:
             messagebox.showwarning('Atenção', 'A posição do mouse não foi definida! Clique na engrenagem e espere.')
+            btn_start_stop.config(text='Start')
             reset_timer()
             return
 
