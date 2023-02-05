@@ -9,7 +9,7 @@ Para usar basta clicar em *SETUP* e esperar 5 segundos. Desta forma ele vai defi
 
 Caso você click sem *START* sem clicar em *SETUP* primeiro ele vai apresentar uma mensagem de erro.
 
-![](prints/Setup alert.png)
+![](prints/setup_alert.png)
 
 Após definir a posição de clique é só clicar em *START/STOP* para começar e parar os cliques.
 
